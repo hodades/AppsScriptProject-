@@ -154,11 +154,5 @@ function displayMealPlan() {
 - **Spoonacular API**: For meal planning data.
 - **Google Sheets**: For user input and output display.
 
----
 
-## **Future Improvements**
-- Add support for snack plans.
-- Include additional nutritional information.
-- Allow customization of portion sizes.
-- Integrate a shopping list generator based on the meal plan.
 
